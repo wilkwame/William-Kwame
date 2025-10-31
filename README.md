@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm William Mawuko Kwame</h1>
-<h3 align="center">A passionate Avalanche Team1 Ambassador|dotnet & AI developer from Ghana</h3>
+<h3 align="center">A passionate dotnet & AI developer from Ghana</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wilkwame" alt="wilkwame" /></a> </p>
 
